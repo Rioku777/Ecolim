@@ -32,3 +32,6 @@
 - Context API (React):Para manejar autenticación y temas globales.
 - PostCSS: Para procesamiento del CSS (con soporte de Tailwind).
 - JavaScript moderno (ES6+): – Código modular, limpio y eficiente.
+
+
+Dale en code para ver bien la estructura
