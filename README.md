@@ -31,4 +31,4 @@
 - Tailwind CSS :Framework CSS utilitario para diseño moderno y responsivo.
 - Context API (React):Para manejar autenticación y temas globales.
 - PostCSS: Para procesamiento del CSS (con soporte de Tailwind).
-- **JavaScript moderno (ES6+): – Código modular, limpio y eficiente.
+- JavaScript moderno (ES6+): – Código modular, limpio y eficiente.
